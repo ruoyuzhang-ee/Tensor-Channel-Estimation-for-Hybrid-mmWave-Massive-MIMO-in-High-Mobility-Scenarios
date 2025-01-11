@@ -6,3 +6,8 @@ Reference: R. Zhang, L. Cheng, S. Wang, Y. Lou, W. Wu and D. W. K. Ng, "Tensor D
 If you have any problem, feel free to contact: ryzhang19@njust.edu.cn.
 
 Wish you a great success in exploring tensor decomposition for massive MIMO channel estimation in high-mobility scenarios!
+
+
+
+The tensor decomposition requires the Tensorlab toolbox, which is tensor computations and complex optimization.
+It can be download from https://www.tensorlab.net/#download
